@@ -12,10 +12,11 @@ nav {
 nav a {
   padding: 5px 10px;
   background-color: rgba(255,255,255,.1);
-  color: #f88;
+  color: #fff;
   border: #fff 1px solid;
   margin: 0;
   text-transform: uppercase;
+  text-decoration: none;
 }
 nav a:hover {
   color: orange;
